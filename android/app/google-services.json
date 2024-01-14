@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386512858153",
+    "project_id": "isee-final",
+    "storage_bucket": "isee-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386512858153:android:9d88f6a61a20a0f0a4c038",
+        "android_client_info": {
+          "package_name": "com.example.final_ito"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqnPDgrtYbXOoMo5o9xamykBgvH1avjq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
